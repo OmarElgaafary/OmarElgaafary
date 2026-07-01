@@ -107,7 +107,7 @@ Examples include Go HTTP servers, Express.js APIs, OAuth experiments, and SQLite
   </a>
   <!-- Add your LinkedIn here when ready -->
     <a href="https://www.linkedin.com/in/omar-elgaafary-8b80b6389/">
-    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Adly-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Omar%20Elgaafary-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
  
   <!-- Add your portfolio here when ready -->
