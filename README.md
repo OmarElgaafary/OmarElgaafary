@@ -75,7 +75,7 @@ The model is trained on a large cleaned dataset of software tasks and uses separ
 
 **Tech focus:** Python, machine learning, TF-IDF, Logistic Regression, FastAPI, Docker, model deployment
 
-[View Repository](#)
+[View Repository](https://github.com/OmarElgaafary/Task-Duration-Classifier)
 
 ---
 
