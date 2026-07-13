@@ -93,7 +93,6 @@ Examples include Go HTTP servers, Express.js APIs, OAuth experiments, and SQLite
 
 ## What I'm Currently Working On
 
-* Improving my machine learning workflow for software task duration estimation
 * Building cleaner model training and evaluation pipelines
 * Experimenting with backend deployment and containerization
 * Strengthening my understanding of algorithms, systems, and applied mathematics
